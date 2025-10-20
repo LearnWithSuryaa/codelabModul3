@@ -84,3 +84,4 @@ This project uses:
 - Java 21 (LTS)
 - Maven for dependency management and building
 - Standard Java project structure
+-next
